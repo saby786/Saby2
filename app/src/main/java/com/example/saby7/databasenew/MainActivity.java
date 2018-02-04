@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     int idpos;
 String s;
 
+    String s1;
     ArrayList<Emoplyee> al;
     public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         @Override
