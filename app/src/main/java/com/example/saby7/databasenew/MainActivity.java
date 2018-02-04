@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
     MyAdapter ma;
     int pos;
     int idpos;
-String Shahbaz;
-String Prabha;
+
+
     ArrayList<Emoplyee> al;
     public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         @Override
